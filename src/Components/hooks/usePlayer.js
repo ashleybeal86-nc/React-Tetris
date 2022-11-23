@@ -56,3 +56,4 @@ export const usePlayer = () => {
 
   return [player, updatePlayerPos, resetPlayer, playerRotate];
 };
+
