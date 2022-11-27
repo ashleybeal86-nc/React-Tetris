@@ -1,3 +1,5 @@
+///  Source Code/Resource: https://tiny-tetris.stackblitz.io  //
+
 const SHAPES = [
     {
         shape: [

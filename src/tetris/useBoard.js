@@ -1,4 +1,4 @@
-///https://tiny-tetris.stackblitz.io//
+///  Source Code/Resource: https://tiny-tetris.stackblitz.io  //
 
 import {useEffect, useState} from 'react';
 import {useInterval} from "./useInterval";

@@ -1,3 +1,5 @@
+/*  Source Code/Resource: https://tiny-tetris.stackblitz.io  */
+
 body {
   font: 14px 'Century Gothic', Futura, sans-serif;
   margin: 0px;
@@ -29,10 +31,10 @@ body {
 .t-cell-1 {
   background: rgb(2,0,36);
   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(125,125,230,1) 35%, rgba(5,36,42,1) 100%);
-  border-bottom: 1px solid rgb(58, 151, 238);
-  border-right: 1px solid rgb(58, 151, 238);
-  border-top: 1px solid rgb(58, 151, 238);
-  border-left: 1px solid rgb(58, 151, 238);
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
 }
 
 .t-cell-2 {
